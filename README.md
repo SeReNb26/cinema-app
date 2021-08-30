@@ -34,5 +34,5 @@ The project supports the following functionality: <br><br>
 2. Install MySQL & Workbench <br>
 3. Create new schema with name "spring"
 4. Go to db.properties file and change login and password to your own <br>
-8. Run the program <br>
-9. Test all functionality in Postman or other webclient
+5. Run the program <br>
+6. Test all functionality in Postman or other webclient
