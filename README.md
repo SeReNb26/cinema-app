@@ -30,9 +30,9 @@ The project supports the following functionality: <br><br>
 ## Instructions for launching
 <hr>
 1. Copy the project into your IDE
-1. Add tomcat configuration <br>
-2. Install MySQL & Workbench <br>
-3. Create new schema with name "spring"
-4. Go to db.properties file and change login and password to your own <br>
-5. Run the program <br>
-6. Test all functionality in Postman or other webclient
+2. Add tomcat configuration <br>
+3. Install MySQL & Workbench <br>
+4. Create new schema with name "spring"
+5. Go to db.properties file and change login and password to your own <br>
+6. Run the program <br>
+7. Test all functionality in Postman or other webclient
