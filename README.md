@@ -1,5 +1,5 @@
 # Cinema-app
-![taxi](https://businessvisit.com.ua/wp-content/uploads/2017/02/VO-cinema.jpg)
+![cinema](https://businessvisit.com.ua/wp-content/uploads/2017/02/VO-cinema.jpg)
 <hr>
 This project is an example of a simple web program for buying movie tickets. Built on a 3-tier architecture (Dao, Service, Controller)<br><br> 
 The project supports the following functionality: <br><br>
